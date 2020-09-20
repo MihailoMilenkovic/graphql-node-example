@@ -1,2 +1,2 @@
 # graphql-node-example
-example app for graphQL API with node.js and mongoDB
+example backend for graphQL API with node.js and mongoDB, built as a simple hackernews clone.
