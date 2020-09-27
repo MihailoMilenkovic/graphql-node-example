@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^2.7.1",
     "graphql-yoga": "^1.18.3",
     "mongodb": "^3.6.2",
     "mongoose": "^5.10.6"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@prisma/cli": "^2.7.1"
+  }
 }
